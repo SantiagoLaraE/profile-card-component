@@ -1,0 +1,16 @@
+:root{
+    --primary-color:hsl(185, 75%, 39%);
+    --light-color:hsl(0, 0%, 59%);
+    --medium-color:hsl(227, 10%, 46%);
+    --dark-color:hsl(229, 23%, 23%);
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
